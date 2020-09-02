@@ -32,5 +32,3 @@ It is important that you install these two packages to see the work in action.
 
 ## License
         
-[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)]()
-        
