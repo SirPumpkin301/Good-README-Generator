@@ -29,7 +29,6 @@ It is important that you install these two packages to see the work in action.
 * npm install inquirer 
 ```  
 ## Preview 
-![Demo](assets/demo.gif)
 
 ## License
         
