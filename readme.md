@@ -29,6 +29,6 @@ It is important that you install these two packages to see the work in action.
 * npm install inquirer 
 ```  
 ## Preview 
-
+https://drive.google.com/file/d/1oy_PYC2J4FNE768oFFYTfUXvBEt78lvr/view
 ## License
         
