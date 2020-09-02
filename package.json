@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jsanthos01/GoodREADME-.git"
+    "url": "https://github.com/SirPumpkin301/Good-README-Generator"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jsanthos01/GoodREADME-/issues"
+    "url": "https://github.com/SirPumpkin301/Good-README-Generator/issues"
   },
-  "homepage": "https://github.com/jsanthos01/GoodREADME-#readme",
+  "homepage": "https://github.com/SirPumpkin301/Good-README-Generator#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "inquirer": "^7.3.3"
